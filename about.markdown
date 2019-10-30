@@ -1,18 +1,20 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Info
+permalink: /info/
+nav_order: 10
 ---
+# Info
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+| Diupdate        | Ukuran | Rating konten |
+| :---:           | :----: |         :---: |
+| 24 Oktober 2019 | 31 mb  | Rating 3+     |
 
 
-[jekyll-organization]: https://github.com/jekyll
+| Perlu Android Versi     | Ditawarkan Oleh                     |
+| :---:                   | :----:                              |
+| 5.0 & yang lebih tinggi | Direktorat Jenderal Paud dan Dikmas |
+
+### Developer
+> Jalan Jenderal Sudirman, Komplek Kemdikbud, Gedung E Lantai 3,  
+   Tanah Abang, Jakarta Pusat, DKI Jakarta, Indonesia 
