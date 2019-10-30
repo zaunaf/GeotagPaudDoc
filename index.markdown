@@ -4,3 +4,10 @@
 
 layout: home
 ---
+
+# Dokumentasi Development untuk Aplikasi Geotag Paud
+## PT. Nufaza, 2019
+
+<br>  
+  
+<center><img src="{{side.baseurl}}/assets/image/logoApk.png" width="500px" height="500px"></center> 
