@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Geotag Paud merupakan sistem aplikasi berbasis android mobile yang menjaring data pokok 
   pendidikan pada kelompok jenjang Pendidikan Anak Usia Dini di lingkungan Kementerian Pendidikan dan Kebudayaan.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://geotagpauddoc.surge.sh" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://geotagpauddoc.surge.sh" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
