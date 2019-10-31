@@ -18,3 +18,6 @@ nav_order: 10
 ### Developer
 > Jalan Jenderal Sudirman, Komplek Kemdikbud, Gedung E Lantai 3,  
    Tanah Abang, Jakarta Pusat, DKI Jakarta, Indonesia 
+
+### Tentang Jekyll
+> Pelajari tentang **Jekyll** di [sini](https://jekyll-docs.surge.sh)
